@@ -9,6 +9,7 @@
     },
     "minimum-stability": "dev",
     "require": {
-        "php": "^8.0"
+        "php": "^8.0",
+        "league/uri": "6.x-dev"
     }
 }
