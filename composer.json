@@ -1,0 +1,14 @@
+{
+    "name": "jangoralski/test-composer-diff-action",
+    "type": "project",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Jangoralski\\TestComposerDiffAction\\": "src/"
+        }
+    },
+    "minimum-stability": "dev",
+    "require": {
+        "php": "^8.0"
+    }
+}
